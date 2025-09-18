@@ -11,6 +11,7 @@ nav a {
 
 h1 {
     color: darkblue;
+    padding-bottom: 10px;
 }
 
 img {
@@ -23,10 +24,12 @@ img {
 
 p {
     padding: 0;
+    padding-left: 10px;
 }
 
 main{
-    max-width: 300px;
+    max-width: 50%;
+
 }
 
 aside{
@@ -42,11 +45,13 @@ aside{
 aside img{
     width: 200px;
     height: auto;
+
 }
 
 main img{
     width: 150px;
     height: auto;
+
 }
 
 footer {
