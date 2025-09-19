@@ -61,6 +61,6 @@ article {
 
 .hero article img{
     float: right;
-    width: 125px;
+    width: 125px; /* set a specific width for the image */
 }
 
