@@ -3,8 +3,8 @@
     --secondary-color: #FF6347;
     --accent1-color: #32CD32;
     --accent2-color: #FFD700;
-    --heading-font: "Arial Black", Gadget, sans-serif;
-    --body-font: "times new roman", serif;
+    --heading-font: "Times New Roman", "georgia", serif;
+    --body-font: arial, helvetica, sans-serif;";
 }
 
 header{
